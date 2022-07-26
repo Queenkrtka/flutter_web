@@ -1,0 +1,9 @@
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Hp/web_flutter/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
